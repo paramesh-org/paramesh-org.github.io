@@ -67,13 +67,15 @@
 
 - layout: left
   name: Logify
-  # link: https://bit.ly/SecurityAnalysisReport
+  link: ../_site/logify/index.html
   # github: https://github.com/makeavish/ResearchAssist
   quote: >
     Logging the Cycling , Walking Details
   description: | # this will include new lines to allow paragraphs
-    - Worked on developing an idea for making waste segregation and collection easy and fruitful using blockchain. 
-    - The idea was developed by me and my team mates during an academic course. 
-    - Considering the novelty of the idea, a patent was filed for the same which is currently under evaluation.
+    - This is a OOP concept Practice Web Application.
+    - Worked on a Browser <mark>APIs</mark>(Geolocation).
+    - This Application helps to log cycling, Running activites.
+    - Currently adding more features to it.
+
 
     ---
