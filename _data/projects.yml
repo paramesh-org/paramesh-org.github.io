@@ -1,0 +1,79 @@
+# Project template
+
+- layout: left
+  name: Accident Aspiring System
+  # link: bit.ly/eNidaan
+  # github: https://github.com/eNidaan
+  quote: >
+   Smart India Hackathon
+  description: | # this will include new lines to allow paragraphs
+    - We Designed a device that shares the location with coordinates , images and videos when an accident occurred (as we came up with this idea when an accident occurred in a remote places). 
+    - This functions when the airbag is released, the device will be activated.
+    - we deployed these models using C, SQL Server, Asp.net, Embedded C.
+
+    ---
+
+- layout: left
+  name: Food Charity Distribution System
+  quote: >
+    Infosys Hackathon 
+  description: | # this will include new lines to allow paragraphs
+   -We have been selected for the Infosys InterCollege level Hackathon held in Chennai,India.
+   - The problem statement was given by the Infosys.
+   - we just innovated an idea to design the food charity distribution system. 
+   - This website Application helps us to locate nearby charites and donors by the use of Geolocation API.
+   - Also this website functions to  help the donor to raise the fund for the charity .
+
+    ---
+
+- layout: left
+  name: GoodBite Premium Food Service
+  github: /makeavish/ResearchAssist
+  quote: >
+    A premium Food Delivery System
+  description: | # this will include new lines to allow paragraphs
+    - GoodBite is a premium food service which serves meal under the subscription plan.
+    - According to customer's liability can purchase the subscription plan.
+    -  we provide 365 days meal every day. 
+    - This service is best suited for the women who spends their time in cooking hurry burry and run to the office and the bachelors who searches food under their budget and quality foods.
+    - We came over this problem and brought this food service which serves in your doorstep every day without spending too much money. 
+    - we are providing unlimited meal.
+    - Implemented using <mark>HTML</mark> ,<mark>CSS</mark> , 
+    <mark>JQuery</mark>..
+
+    ---
+
+
+
+
+
+
+
+
+- layout: left
+  name: Pig Game
+  # link: https://criodo.github.io/Crio-Launch-Feb-2020-piyoosh14298/
+  # github: https://github.com/makeavish/ResearchAssist
+  quote: >
+    Front-End Project
+  description: | # this will include new lines to allow paragraphs
+    - As a part of Smart India Hackathon, built an engine that would crawl the surface web,
+    search for child abuse, women abuse, cyber bullying and pornography and would
+    report the same to the authorities. 
+    - The implementation included use of <mark>Information
+    retrieval</mark>, <mark>Machine learning</mark> and <mark>Natural language processing</mark>.
+
+    ---
+
+- layout: left
+  name: Logify
+  # link: https://bit.ly/SecurityAnalysisReport
+  # github: https://github.com/makeavish/ResearchAssist
+  quote: >
+    Logging the Cycling , Walking Details
+  description: | # this will include new lines to allow paragraphs
+    - Worked on developing an idea for making waste segregation and collection easy and fruitful using blockchain. 
+    - The idea was developed by me and my team mates during an academic course. 
+    - Considering the novelty of the idea, a patent was filed for the same which is currently under evaluation.
+
+    ---
