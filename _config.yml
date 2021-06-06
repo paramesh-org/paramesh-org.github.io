@@ -73,20 +73,16 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   **Skills**
-
-  <mark>Programming</mark>, <mark>C++</mark>, <mark>Java</mark>, <mark>Python</mark>, <mark>Shell</mark>, <mark>Git</mark>
-  , <mark>REST APIs</mark>
-  , <mark>Linux</mark>, <mark>Django</mark>
-
+  
   <mark>Programming</mark>, <mark>C</mark>, <mark>Java</mark>, <mark>Python</mark>
-, <mark>JavaScript</mark> 
-|
-    **Tools**  
+  ,<mark>JavaScript</mark> 
 
-<mark>Wireshark</mark>, <mark>Git</mark> <mark>Powershell</mark>
-| 
+  **Tools**  
+
+  <mark>Wireshark</mark>, <mark>Git</mark> <mark>Powershell</mark>
+  
   **Others**
-<mark>HTML</mark>, <mark>CSS</mark>, <mark>OOP</mark>, <mark>Networking</mark> <mark>MySQL</mark>
+  <mark>HTML</mark>, <mark>CSS</mark>, <mark>OOP</mark>, <mark>Networking</mark> <mark>MySQL</mark>
 
 
   **Acheivements**
