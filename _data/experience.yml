@@ -1,16 +1,14 @@
-# Internship Template
+# Experience template
 - layout: left
   company: Uniq Technologies
   link: uniqtechnologies.co.in
   job_title: IOT  Intern
-  dates: Dec 2019
+  dates: Dec 2019 - present
   quote: >
-   Worked on a Mini project - Railway Monitoring System
+   Worked on a Mini project Railway Monitoring System
   description: | # this will include new lines to allow paragraphs
           - we attended the IOT workshop. 
           - we learnt Basics of IOT devices,protocols,Data Analytics.
           -  At the end ,with the help of the Mentor we done a mini project.
 
 
-
-    ---
