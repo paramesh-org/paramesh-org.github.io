@@ -1,5 +1,5 @@
-# Piyush's Portfolio
- Deployed at [piyush14298.github.io](https://piyush14298.github.io)
+# Paramesh Portfolio
+ Deployed at [paramesh-org.github.io](https://paramesh-org.github.io)
 
 # Credits
 The theme was forked from [Modern Resume Theme](https://github.com/sproogen/modern-resume-theme)
