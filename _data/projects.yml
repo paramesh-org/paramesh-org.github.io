@@ -28,7 +28,7 @@
 
 - layout: left
   name: GoodBite Premium Food Service
-  github: /makeavish/ResearchAssist
+#   github: /makeavish/ResearchAssist
   quote: >
     A premium Food Delivery System
   description: | # this will include new lines to allow paragraphs
@@ -65,7 +65,7 @@
 
 - layout: left
   name: Logify
-  link: /_site/Logify/index.html
+#   link: /_site/Logify/index.html
   # github: https://github.com/makeavish/ResearchAssist
   quote: >
     Logging the Cycling , Walking Details
