@@ -61,6 +61,10 @@
     - Only Two Players are allowed. Who reaches the Topscore(Default: 100) first  is considered to be Winner.
     - We have also Implemented a restriction that when a dice is One then the currentScore is Zero.
     - The implementation included use of  <mark>Html</mark>, <mark>Css</mark> and <mark>JavaScript</mark>.
+    
+    
+    
+    
     ---
 
 - layout: left
