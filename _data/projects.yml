@@ -57,17 +57,15 @@
   quote: >
     Front-End Project
   description: | # this will include new lines to allow paragraphs
-    - As a part of Smart India Hackathon, built an engine that would crawl the surface web,
-    search for child abuse, women abuse, cyber bullying and pornography and would
-    report the same to the authorities. 
-    - The implementation included use of <mark>Information
-    retrieval</mark>, <mark>Machine learning</mark> and <mark>Natural language processing</mark>.
-
+    - This is a fun game Project.
+    - Only Two Players are allowed. Who reaches the Topscore(Default: 100) first  is considered to be Winner.
+    - We have also Implemented a restriction that when a dice is One then the currentScore is Zero.
+    - The implementation included use of  <mark>Html</mark>, <mark>Css</mark> and <mark>JavaScript</mark>.
     ---
 
 - layout: left
   name: Logify
-  link: ../_site/logify/index.html
+  link: /_site/Logify/index.html
   # github: https://github.com/makeavish/ResearchAssist
   quote: >
     Logging the Cycling , Walking Details
