@@ -47,21 +47,19 @@ linkedin_username: parameshwaran
 about_profile_image: images/profilepic.jpg
 about_content: | # this will include new lines to allow paragraphs
   
-  Hi, I am  Parameshwaran. I have just over a year of experience as a junior software engineer in Ford Motor Company. 
-  In my short time there, I've already contributed to over a couple of projects and currently indulged a major project of 
-  SAP ERP. I have Experience in Supply chain Management , PlSQL , Data Structures, web developement. 
+  Hi, I am  Parameshwaran. I have just over a year of experience as a <Bold>Junior Software Engineer</Bold> in Ford Motor Company. 
+  In my short time there, I've already contributed to over a couple of projects and currently indulged in a major project of 
+  SAP ERP where i have vast knowledge in Sales and Distribution , Material Management , Master Data Modules.
+  I have Experience in working in the domain of  Supply chain Management , Programming skills,  Database Servers, Requirements Planning. 
   As a natural born go-getter, my passion has continuously driven me to expand my knowledge, experience, and relationships. 
   With a strong background and diverse skill set, I’m confident in the creative ideas and successful solutions I bring to the table. 
   Keep exploring my site to learn more information about me.
 
-
+  
   
   I have worked with many languages, frameworks and technologies like <mark>C</mark>, <mark>Java</mark>, <mark>Python</mark>
-  , <mark>JavaScript</mark>, <mark>Git</mark>, <mark>MySQL</mark>, <mark>PowerShell</mark>, etc.
+  , <mark>JavaScript</mark>, <mark>Git</mark>, <mark>PLSQL</mark>, <mark>PowerShell</mark>, etc.
   
-  Currently I am looking forward to opportunities which allow me to apply my problem solving and logical thinking abilities 
-  to the real world scenarios and solve real world problems. 
-
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
@@ -81,7 +79,7 @@ more_content: | # this will include new lines to allow paragraphs
 
   **Tools**  
 
-  <mark>Wireshark</mark>, <mark>Git</mark> <mark>Powershell</mark>
+  <mark>Wireshark</mark>, <mark>Git</mark>,  <mark>Powershell</mark>, <mark>ALM<mark>
   
   **Others**
   <mark>HTML</mark>, <mark>CSS</mark>, <mark>OOP</mark>, <mark>Networking</mark> <mark>MySQL</mark>
