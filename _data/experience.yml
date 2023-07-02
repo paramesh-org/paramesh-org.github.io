@@ -12,3 +12,19 @@
           -  At the end ,with the help of the Mentor we done a mini project.
 
 
+# Experience template
+- layout: left
+  company: Ford Motor Company
+  link: www.india.ford.com
+  job_title: Junior Sofware Engineer
+  dates: Jul 2022*
+  quote: >
+   Worked on Code Unification Project, DB Migration, APP Migration, SAP Migration
+  description: | # this will include new lines to allow paragraphs
+          - we attended the IOT workshop. 
+          - we learnt Basics of IOT devices,protocols,Data Analytics.
+          -  At the end ,with the help of the Mentor we done a mini project.
+
+
+
+
